@@ -28,10 +28,10 @@ const _nav = [
     component: CNavItem,
     name: 'Dashboard',
     to: '/dashboard',
-    // icon: <CIcon icon={cilSpeedometer} customClassName="nav-icon" />,
+    icon: <img style={{paddingRight:"10px"}} height="50px" src="https://pbs.twimg.com/profile_images/1346392681736331264/iwMsr5AM_400x400.jpg" alt="logo" />,//<CIcon icon={cilSpeedometer} customClassName="nav-icon" />,
     badge: {
       color: 'info',
-      text: 'NEW',
+      // text: 'NEW',
     },
   },
   // {
