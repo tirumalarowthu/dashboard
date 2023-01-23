@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/4020.9bd7087c.chunk.js","mappings":"0MAMA,UAJqB,WACnB,OAAO,yBAAK,gBACd,C","sources":["DashboardComponents/PrintReports.js"],"sourcesContent":["import React from \"react\";\r\n\r\nconst PrintReports = () => {\r\n  return <div>PrintReports</div>;\r\n};\r\n\r\nexport default PrintReports;\r\n"],"names":[],"sourceRoot":""}

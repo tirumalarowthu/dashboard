@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/392.44ecac2a.chunk.js","mappings":"yMAMA,UAJoB,WAClB,OAAO,yBAAK,eACd,C","sources":["DashboardComponents/Maincontrol.js"],"sourcesContent":["import React from \"react\";\r\n\r\nconst Maincontrol = () => {\r\n  return <div>Maincontrol</div>;\r\n};\r\n\r\nexport default Maincontrol;\r\n"],"names":[],"sourceRoot":""}

@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/223.33e177e2.chunk.js","mappings":"yMAMA,UAJkB,WAChB,OAAO,yBAAK,aACd,C","sources":["DashboardComponents/DefViewer.js"],"sourcesContent":["import React from \"react\";\r\n\r\nconst DefViewer = () => {\r\n  return <div>DefViewer</div>;\r\n};\r\n\r\nexport default DefViewer;\r\n"],"names":[],"sourceRoot":""}

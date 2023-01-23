@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/5820.56c77ab7.chunk.js","mappings":"0MAMA,UAJwB,WACtB,OAAO,yBAAK,mBACd,C","sources":["DashboardComponents/DownloadReports.js"],"sourcesContent":["import React from \"react\";\r\n\r\nconst DownloadReports = () => {\r\n  return <div>DownloadReports</div>;\r\n};\r\n\r\nexport default DownloadReports;\r\n"],"names":[],"sourceRoot":""}

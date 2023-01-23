@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/4454.659c207d.chunk.js","mappings":"0MAMA,UAJgB,WACd,OAAO,yBAAK,WACd,C","sources":["DashboardComponents/Product.js"],"sourcesContent":["import React from \"react\";\r\n\r\nconst Product = () => {\r\n  return <div>Product</div>;\r\n};\r\n\r\nexport default Product;\r\n"],"names":[],"sourceRoot":""}

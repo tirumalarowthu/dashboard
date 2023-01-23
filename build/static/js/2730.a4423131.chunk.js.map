@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/2730.a4423131.chunk.js","mappings":"0MAMA,UAJuB,WACrB,OAAO,yBAAK,kBACd,C","sources":["DashboardComponents/CroppedReports.js"],"sourcesContent":["import React from \"react\";\r\n\r\nconst CroppedReports = () => {\r\n  return <div>CroppedReports</div>;\r\n};\r\n\r\nexport default CroppedReports;\r\n"],"names":[],"sourceRoot":""}
